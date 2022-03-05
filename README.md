@@ -1,4 +1,4 @@
-# CATNet
+# CAT
 Code and dataset of CAT.
 
 ## Dataset
